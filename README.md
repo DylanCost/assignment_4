@@ -14,7 +14,7 @@ This project implements video action recognition on the UCF50 dataset using a Lo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ucf50-action-recognition.git
+git clone https://github.com/DylanCost/assignment_4.git
 cd ucf50-action-recognition
 ```
 
